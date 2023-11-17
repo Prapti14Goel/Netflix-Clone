@@ -1,105 +1,51 @@
-# Netflix-Clone
-This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
-
-## 📸 Screenshots
-![image](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
-![image](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png)
-![image](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png)
-![image](https://user-images.githubusercontent.com/79099734/156505658-675daf0b-fe7d-4490-8d1c-ab030527ecf5.png)
-![image](https://user-images.githubusercontent.com/79099734/156505698-04ab760c-9ef1-4da2-b921-4c3e65ef0789.png)
-![image](https://user-images.githubusercontent.com/79099734/156505771-6929b1f2-1aed-4da4-bb7a-092404589241.png)
-![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
 
 
-## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
+Netflix Clone Project
+A Netflix clone web application created from June 2022 to November 2022.
 
+Description
+This project is a web application that replicates the core features of Netflix using HTML, CSS, and JavaScript. It includes a user-friendly interface that allows users to browse and search for videos by genre and title. The frontend components are built using React.js, and the backend is powered by Node.js.
 
-## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
+Features
+User-friendly interface similar to Netflix.
+Browse and search for videos by genre and title.
+Responsive design for various screen sizes.
+Utilized React.js for the frontend components.
+Powered by Node.js on the backend.
+Installation
+To run the project locally, follow these steps:
 
+Clone the repository to your local machine:
 
-# 💥 How to Contribute
+bash
+Copy code
+git clone <repository-url>
+Install the project dependencies:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Netflix-Clone/pulls)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+bash
+Copy code
+npm install
+Start the development server:
 
-- Take a look at the existing [Issues](https://github.com/Susmita-Dey/Netflix-Clone-With-HTML-CSS-JS/issues) or [create a new issue](https://github.com/Susmita-Dey/Netflix-Clone/issues/new/choose)!
-- [Fork the Repo](https://github.com/Susmita-Dey/Netflix-Clone/fork), create a branch for any issue that you are working on and commit your work.
-- Create a **[Pull Request](https://github.com/Susmita-Dey/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
-- Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
+bash
+Copy code
+npm start
+Access the application in your web browser at http://localhost:3000.
 
-## ⭐ HOW TO MAKE A PULL REQUEST:
+Technologies Used
+HTML
+CSS
+JavaScript
+React.js
+Node.js
+Contributing
+If you'd like to contribute to this project, please follow our contribution guidelines.
 
-**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Susmita-Dey/Netflix-Clone) repository. Click on the <a href="https://github.com/Susmita-Dey/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+License
+This project is licensed under the MIT License.
 
-**2.** Clone your new fork of the repository:
+Contact
+Name - Prapti Goel
 
-```bash
-git clone https://github.com/<your-github-username>/Netflix-Clone
-```
-
-**3.** Set upstream command:
-
-```bash
-git remote add upstream https://github.com/Susmita-Dey/Netflix-Clone.git
-```
-
-**4.** Navigate to the new project directory:
-
-```bash
-cd Netflix-Clone
-```
-
-**5.** Create a new branch:
-
-```bash
-git checkout -b YourBranchName
-```
-
-**6.** Sync your fork or local repository with the origin repository:
-
-- In your forked repository click on "Fetch upstream"
-- Click "Fetch and merge".
-
-### Alternatively, Git CLI way to Sync forked repository with origin repository:
-
-```bash
-git fetch upstream
-```
-
-```bash
-git merge upstream/main
-```
-
-### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
-
-**7.** Make your changes to the source code.
-
-**8.** Stage your changes and commit:
-
-```bash
-git add .
-```
-
-```bash
-git commit -m "<your_commit_message>"
-```
-
-**9.** Push your local commits to the remote repository:
-
-```bash
-git push origin YourBranchName
-```
-
-**10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
-
-**11.** **Congratulations!** You've made your first contribution! 🙌🏼
-
-
-
-## All the best! 🥇
-
-<p align="center">
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
-
-</p>
+Acknowledgements
+Thanks to Netflix for providing inspiration for this project.
